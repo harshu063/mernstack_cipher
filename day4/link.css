@@ -1,0 +1,9 @@
+div.galfrm
+{ margin-left: 3.7%;
+     margin-right: 4.7%;}
+     div.imgGal
+     { background-color: black;
+         float: left;
+         margin-left: 2.1%; 
+         margin-bottom: 3%; 
+         border: 2px solid red;}
